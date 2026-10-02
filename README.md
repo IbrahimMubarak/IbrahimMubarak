@@ -132,6 +132,4 @@ I use GitHub to experiment with new technologies, build side projects, document 
 
 **LinkedIn:** [@IbrahimMubarak](https://www.linkedin.com/in/ibrahim-mubarak-841a84130/)
 
----
 
-> Building software is not only about writing code — it's about understanding the problem, designing the right solution, and maintaining it as the system evolves.
